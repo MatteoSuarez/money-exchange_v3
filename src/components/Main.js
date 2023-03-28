@@ -8,7 +8,7 @@ const Main = () => {
 
             <div className="wrapper">
                 <div className="app-details">
-                    <img src="./assets/icon.png" className="app-icon" />
+                    <img href="git" className="app-icon" />
                     <h1 className="app-title">currency converter</h1>
 
                 </div>
